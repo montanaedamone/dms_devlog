@@ -1,7 +1,7 @@
 # dms_devlog
 devlog for drawing, moving, seeing with code
 
-[Week 2 - Collaborating w/ Computers](https://montanaedamone.github.io/dms_devlog/devlog2)
+[Week 2 - Collaborating w/ Computers](https://github.com/montanaedamone/dms_devlog/blob/main/Week%202.md)
 
 [Week 6 - Beginning Ecosystems](https://github.com/montanaedamone/dms_devlog/blob/main/Week%206.md)
 
